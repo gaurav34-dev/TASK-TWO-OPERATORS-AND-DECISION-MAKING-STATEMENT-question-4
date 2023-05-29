@@ -19,5 +19,3 @@ class Main {
   }
 }
 
-
-//swap two number without third variable
